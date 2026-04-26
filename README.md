@@ -1,14 +1,36 @@
 # Smart File Organizer
 
-A Python automation tool that organizes files into categories like Images, Documents, Videos, and Code.
+A Python automation tool that intelligently organizes files into categories like Images, Documents, Videos, and Code.
+
+---
 
 ## Features
-- Auto-detect file types
-- Organizes messy folders
-- Beginner-friendly automation project
+-  Detects file types using extensions
+-  Automatically creates folders
+-  Moves files into correct directories
+-  Cleans messy folders instantly
 
-## How to Run
-1. Place files in a folder
-2. Update folder_path in script
-3. Run:
+---
+
+##  Tech Stack
+- Python
+- os module
+- shutil module
+
+---
+
+##  How to Run
+1. Place your files in a folder
+2. Update `folder_path` in `organizer.py`
+3. Run the script:
+
+```bash
    python organizer.py
+```
+
+---
+
+## Contribution
+This project supports collaborative development. Feel free to contribute and improve it.
+
+---
