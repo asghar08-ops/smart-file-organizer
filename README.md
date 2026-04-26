@@ -34,3 +34,10 @@ A Python automation tool that intelligently organizes files into categories like
 This project supports collaborative development. Feel free to contribute and improve it.
 
 ---
+
+## Future Improvements
+- Add GUI (Tkinter)
+- Add logging system
+- Support more file types
+
+---
