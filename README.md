@@ -41,3 +41,8 @@ This project supports collaborative development. Feel free to contribute and imp
 - Support more file types
 
 ---
+
+## License
+This project is open-source and free to use.
+
+---
