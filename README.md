@@ -30,10 +30,6 @@ A Python automation tool that intelligently organizes files into categories like
 
 ---
 
-## Contribution
-This project supports collaborative development. Feel free to contribute and improve it.
-
----
 
 ## Future Improvements
 - Add GUI (Tkinter)
@@ -46,3 +42,9 @@ This project supports collaborative development. Feel free to contribute and imp
 This project is open-source and free to use.
 
 ---
+
+## Contribution
+This project supports collaborative development. Feel free to contribute and improve it.
+
+---
+
